@@ -1,4 +1,4 @@
 # python_common
 
-## fileopen
+## cFileopen
 ファイルダイアログと読み込みデータの表示などをまとめた
